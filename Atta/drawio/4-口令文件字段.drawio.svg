@@ -1,0 +1,544 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="531px" height="251px" viewBox="-0.5 -0.5 531 251" content="&lt;mxfile&gt;&lt;diagram id=&quot;fVhMDwYFLcIhsv56QLJb&quot; name=&quot;第 1 页&quot;&gt;7Vtbj6M2FP41ltpKHXELMY+QwHalXe1KadV9GzGBELTcCmST6a/vOcYECDDJTAlJO+QhsY8N5/Kdi7EJkRfh4UNqJ9vPseMGRBKcA5GXRJJEUdDgBynPBYUKQkHwUt/hkyrCyv/b5cRy2s533KwxMY/jIPeTJnEdR5G7zhs0O03jfXPaJg6aXBPbc1uE1doO2tQ/fSfflnqpWjXwm+t7W86aSvNiILTLyVyTbGs78b5Gkk0iL9I4zotWeFi4ARqvtEtxndUzehQsdaP8kguk4oIfdrDjusFcN1/Dd2Jn2d6BQWLOCLWILhNTIYZBdIWYKtFUQuecYqisQYm+JOacaDqhCl4FXW2Ok3WTGDOucf5cmhGUT7C5CwMrtUNoGvutn7urxF4jfQ/eA7RtHgbQE3GYW1vUBBwoTSxhb+MHwSIO4pTdXBbYB+lxlNfoFvtwumWHfsCcEMQGaalGTEoMUGHJdATVFBwydGKIxNRQWU1kyoJqMqizWsCtsjyNvx9dAQU94ooSZN/BolveaSPEQfvhprl7qJE4Yh/cOHTz9BmmHJph8Nzs7itXnMmctq15oTTjRJu7v3e8c+Uh0OBO0u0wctthwGK6xQwFFqOEmi2g03gXOa7DLXAG4wFxwVutuBjiG1ykwLUxwq8YAEWpiaLSRlFUOlBUBgBRaYEImu4gUaJKx6iHAKdEY+EPtgVkJ1gvCU71PK7SlXCdtXD9+mX18duDOEF3UUTSs9DNroSc2kLOSl3XWEFLoA/ChN8l+MnyzfCbt/D75Ee7A5DkB2nC70L8bhd/tIXfZxsWwcKX1Tf4FoUH9WGqfxeBqNwuCLUWiKs4sFM/YxBO8F0E3+1isISo8TCqBsDBSBrIqX/t8PnYCPzI/bWUQkeQH6RqFFoe/2X3QHOyPYHSbtVEebNhFmxdu97aKVzzS7J/jPABld8KNCnu1uTwlL6OJ3J9kWe5GB+QK+q52bS57nznka3/94/QHJhlt6JexdIbmCUy7NKyZlvPXcfZ4ICeYer46eB6nvGhbMuibFzHXQfguaP4be6HbulFIEDkDRukfb5bZ+seEj89xxY31CranVQiLAv+2g70wPciuFvoOw7KZNicELgbFDgDYfzI+8R6y1lFgZ5U9X6PE65CX0kb9cmbtktX55O3OMS+mCjeXfFiW7EK0SnfygH3wK0cgdDlKPmA7RvrRGc7SLpFqNqxkzxGjmAhMSNGsZMtEGPRYRpJ+DisWfpSR7c0YA2qDC9EXyFEIQyZGUDDfXzAqWO/foTiyIxAWd4C/iAIowAe+qxMVwVaBgqFQ0u03hhFtEM0PLAp4v6nruiaY5droIOn/zxSnLUloQxCC9EFRNFyc6wEhjGoRP0Bx06DKHMzfUF0sVaVVBTW0HpOlebsMIlJbQydHfrMR5GVrtbMp6LXYVFloUrpq0W7y3Jff/AUXir/vfW+qvAnK4SbFHzpfL3vOkEZpN53nZwiFOygBMCBnKrrRWHXv/5hsnSBkbAoY0NDCnxTilnCDhH26ClLmGmE43SVtQysonAzxFhGdIuKoVm1YqJiXcdIb5/NQtWXCC1YWzwaqYg1uc1ZhWWIrF905nuvfn3ijI0T39c56WmEPMV5HodX8V5J7thpETvcVxrAe9UO7735alVC2AdeEvbXzGtw66+H1+E2pm79K8lr4TYmt8kn78Mn73Ld9LZtEpGS8/skJ0cB/ZWob4E1xLGbfHYd1bXlP8gySu14n2gqRO8s6KdCNPnkvfnkVIjGL0Snrw6MWoja70ROhei9Bf1UiK7gk6dXvG1oysc3yMf0hvm4/S7zlI+nfDzl4ykfv9t8fPp+9Kj5uP0Phf9gPn7Bwf/PyfPfqT1luinTjZzpTv+JdcVMB93q79ZsrPanddn8Bw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 0 L 190 0 L 190 5 L 180 20 L 0 20 Z" fill="#000000" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 190 0 L 530 0 L 530 250 L 0 250 L 0 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 10px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                /etc/passwd 口令文件中的字段
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="95" y="14" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle">
+                    /etc/passwd 口令文件中的字段
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="30" width="140" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 50px; margin-left: 11px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                说明
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="80" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    说明
+                </text>
+            </switch>
+        </g>
+        <rect x="150" y="30" width="120" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 50px; margin-left: 151px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                struct passwd 成员
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="210" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    struct passwd 成员
+                </text>
+            </switch>
+        </g>
+        <rect x="270" y="30" width="50" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 50px; margin-left: 271px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                POSIX.1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="295" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    POSIX.1
+                </text>
+            </switch>
+        </g>
+        <rect x="320" y="30" width="50" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 50px; margin-left: 321px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                FreeBSD 8.0
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="345" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    FreeBSD...
+                </text>
+            </switch>
+        </g>
+        <rect x="370" y="30" width="50" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 50px; margin-left: 371px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Linux 3.2.0
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="395" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Linux 3....
+                </text>
+            </switch>
+        </g>
+        <rect x="420" y="30" width="50" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 50px; margin-left: 421px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Mac OSX 10.6.8
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="445" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Mac OSX...
+                </text>
+            </switch>
+        </g>
+        <rect x="470" y="30" width="50" height="40" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 50px; margin-left: 471px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Solaris 10
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="495" y="54" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Solaris...
+                </text>
+            </switch>
+        </g>
+        <rect x="150" y="70" width="120" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 113px; height: 1px; padding-top: 145px; margin-left: 157px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        char *pw_name
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        char *pw_passwd
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        uid_t pw_uid
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        gid_t pw_gid
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        char *pw_gecos
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        char *pw_dir
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        char *pw_shell
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        char *pw_class
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        time_t pw_change
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        time_t pw_expire
+                                    </font>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="157" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px">
+                    char *pw_name...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="70" width="140" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 133px; height: 1px; padding-top: 145px; margin-left: 17px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        用户名
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        加密口令
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        数值用户 ID
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        数值组 ID
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        注释字段
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        初始工作目录
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        初始 shell (用户程序)
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        用户访问类
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        下次更改口令时间
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        账户有效时间
+                                    </font>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="17" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px">
+                    用户名加密口令数值用户 ID...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="220" width="510" height="20" fill="#ffffff" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 508px; height: 1px; padding-top: 237px; margin-left: 11px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                摘自: APUE(第三版)  第6章:系统数据文件和信息  6.2:口令文件
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="265" y="237" fill="#000000" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle">
+                    摘自: APUE(第三版)  第6章:系统数据文件和信息  6.2:口令文件
+                </text>
+            </switch>
+        </g>
+        <rect x="320" y="70" width="50" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 30px; height: 1px; padding-top: 145px; margin-left: 340px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="340" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px" font-weight="bold">
+                    ❤❤❤❤❤❤❤❤❤❤...
+                </text>
+            </switch>
+        </g>
+        <rect x="420" y="70" width="50" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 30px; height: 1px; padding-top: 145px; margin-left: 440px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px" font-weight="bold">
+                    ❤❤❤❤❤❤❤❤❤❤...
+                </text>
+            </switch>
+        </g>
+        <rect x="470" y="70" width="50" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 30px; height: 1px; padding-top: 145px; margin-left: 490px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="490" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px" font-weight="bold">
+                    ❤❤❤❤❤❤❤❤❤❤...
+                </text>
+            </switch>
+        </g>
+        <rect x="370" y="70" width="50" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 30px; height: 1px; padding-top: 145px; margin-left: 390px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="390" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px" font-weight="bold">
+                    ❤❤❤❤❤❤❤❤❤❤...
+                </text>
+            </switch>
+        </g>
+        <rect x="270" y="70" width="50" height="150" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 30px; height: 1px; padding-top: 145px; margin-left: 290px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    <font color="#0000ff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    <font color="#ffffff">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        ❤
+                                    </font>
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                    <br/>
+                                    ❤
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="290" y="149" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px" font-weight="bold">
+                    ❤❤❤❤❤❤❤❤❤❤...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

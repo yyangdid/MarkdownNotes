@@ -1,0 +1,194 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="332px" height="251px" viewBox="-0.5 -0.5 332 251" content="&lt;mxfile&gt;&lt;diagram id=&quot;fVhMDwYFLcIhsv56QLJb&quot; name=&quot;第 1 页&quot;&gt;7Vlbr5s4EP41lrortQqQEPvRJNB92JVWyq72saLBCajcSkiT01/fmbFD4ABt2nLSPOxRFZnx2HP75gJlzio7v63CMv6riFTK7Fl0Zs6a2ba7mMMvEp40weGWJuyrJNKkFmGTfFaGODPUYxKpQ4exLoq0TsoucVvkudrWHVpYVcWpy7Yr0q7UMtyrHmGzDdM+9b8kqmNDtVxx3fhDJfvYiOb2Um9k4YXZWHKIw6g4tUiOz5xVVRS1XmXnlUrRdxe/6HPByG6jWKXy+pYDtj7wKUyPxjbgVfUWfo1qcIEvmODMmzN/wbw18yxc8IBJh/lz5nlMwpbLhMv40lA8lxacyTXzl0xIxuk4PIolMkufeQvjg/rp4liQWeLymKVBFWaw9E5xUqtNGW6RfgI4AS2usxSeLNw2/kdswMbF6TY+7ZI0XRVpUdHlzoz+kF7kdYse0J+hB2GWpARLUBu05YL5YDuYsCYbPfLDknmS/CDQWGGRsWCaA+ZsVnDVJ1XVCQBGpsk+h9uyJIrQSK8fIBMzPKHOLZIJ2FtVZKqunoDl3M2Cp+7j6YpExzG0uAVCe2GIoUH/vrn5ChBYGIwM48Xp4wXcIwPyiosw4X4vqlVxzCOFN8y+HdAJg4BXbYwa1g/g4VBXxQfV2TEnnof3fVHXRTZNeO1ueOf98FrLofBOEN15L7rggiMUUAhneYqoFkCScyZmmMzgcgj4/9H+qWQW3w73/IXCPVT90eEUVggBVHMpmSOBRf79r/+K4rPCf7q2Y6CW+Mv5b8x2U1DNe1/Bao+rhtulFXSJGd6FgXQwhLiAQAYkEhqLxtYaO8NAMwG02YxrydB5LGK2sPL0BLtvHBJ0Q9d6ROwOdK5OhxrC9ENUKns20ImsAexO0YiWfGBy0UgoOzF1Px5xmPLSJFevL1ogpK039nW3Aa25Ax1NA+TFo1dGZ7cj3/bP4qAzZ5KbIgkoQArFXGMQYI5AniHMjSCwU8vqym+l0U0aoU5DGgHiJSYejl4B4+5QDkyoCDpmtxtSRBcMSaPfyuSvyQ4XveaJoaFSLxbEs6YFFQ1gwywLqEQ006WLoyXWCkGLqS0bc3FfowXqDkr5VNWEZShSXKLvk60LLGA4Pfnom74/pkXIWGBAPlVSEAsVitvDgUE75KVsiZZBl9o9NZzHlIX4co2HFfUOesOQrhlHuHxx1cZyn1oNKtLkvoY89QFvbooAZiOnLeiamiKI5xe4+FY7+k5/UdW+WkMCaqxLFCu+P0OAsbzSHrT3j746HkCbJN//qXbYRxdXyj9Fac6G5kxKPKMj8Pi4MP1U4N74/tJMuT81FYiHmwq2cQg4nP1+KN/lYVbeJYtbMum17Q7ZmeT6LfFdeqi38f4uvbeRmSX5XbrlVWB4vkvHawSewmp6E7/q0yQP8cX/DmhtRKpzmVTqLnA95geolAo/aTTid2n4/bh9yJYy2kKe9YfRjoJfUIf6yy9pKM8/kQx1lKFPJD/SUeDx+vGd9lr/g+H4XwA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 0 L 210 0 L 210 5 L 200 20 L 0 20 Z" fill="#000000" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 210 0 L 330 0 L 330 250 L 0 250 L 0 20" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 10px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                /etc/shadow 阴影口令文件中的字段
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="105" y="14" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle">
+                    /etc/shadow 阴影口令文件中的字段
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="30" width="170" height="20" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 47px; margin-left: 11px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                说明
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="95" y="47" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    说明
+                </text>
+            </switch>
+        </g>
+        <rect x="180" y="30" width="140" height="20" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 47px; margin-left: 181px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                struct spwd 成员
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="250" y="47" fill="#FFFFFF" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle" font-weight="bold">
+                    struct spwd 成员
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="190" width="310" height="50" fill="#ffffff" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 308px; height: 1px; padding-top: 237px; margin-left: 11px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                摘自: APUE(第三版)
+                                <br/>
+                                第6章:系统数据文件和信息
+                                <br/>
+                                6.3:阴影口令
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="165" y="237" fill="#000000" font-family="等距更纱黑体 SC" font-size="12px" text-anchor="middle">
+                    摘自: APUE(第三版)...
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="50" width="170" height="140" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 163px; height: 1px; padding-top: 120px; margin-left: 17px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        用户登录名
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        加密口令
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        上次更改口令以来经过的时间
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        经过多少天后允许更改
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        要求更改尚余天数
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        超期警告天数
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        账户不活动之前尚余天数
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        账户超期天数
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        保留
+                                    </font>
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="17" y="124" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px">
+                    用户登录名加密口令上次更改口令以来经过的时间经过多少天后允许更改要求更改尚余天数超期警告天数账户不活动之前尚余天数账户超期天数保留...
+                </text>
+            </switch>
+        </g>
+        <rect x="180" y="50" width="140" height="140" fill="#000000" stroke="#ff0000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 133px; height: 1px; padding-top: 120px; margin-left: 187px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: &quot;等距更纱黑体 SC&quot;; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <p style="line-height: 1.2">
+                                    <font color="#ff0000">
+                                        char *sp_namp
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        char *sp_pwd
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        int sp_lstchg
+                                    </font>
+                                    <br/>
+                                    <font color="#00ff00">
+                                        int sp_min
+                                    </font>
+                                    <br/>
+                                    <font color="#ff00ff">
+                                        int sp_max
+                                    </font>
+                                    <br/>
+                                    <font color="#ffffff">
+                                        int sp_warn
+                                    </font>
+                                    <br/>
+                                    <font color="#ff0000">
+                                        int sp_inact
+                                    </font>
+                                    <br/>
+                                    <font color="#ffff00">
+                                        int sp_expire
+                                    </font>
+                                    <br/>
+                                    <font color="#0000ff">
+                                        unsigned int sp_flag
+                                    </font>
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="187" y="124" fill="rgb(0, 0, 0)" font-family="等距更纱黑体 SC" font-size="12px">
+                    char *sp_namp...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -1,0 +1,40 @@
+/**
+ * @file main.c
+ * @brief exec(3) 函数族的使用.
+ * @version 0.0.2
+ * @author yyangdid\@gmail.com
+ */
+
+#include <errno.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <wait.h>
+
+int main() {
+  printf("Begin!\n");
+
+  fflush(NULL);
+
+  pid_t pid = fork();
+  if (pid < 0) {
+    fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__, strerror(errno));
+    fflush(NULL);
+    exit(EXIT_FAILURE);
+  }
+
+  if (pid == 0) { // 子进程
+    execl("/usr/bin/date", "date", "+%s", NULL);
+    fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__, strerror(errno));
+    fflush(NULL);
+    exit(EXIT_FAILURE);
+  }
+
+  // 父进程
+  wait(NULL);
+
+  printf("End!\n");
+
+  exit(EXIT_SUCCESS);
+}
