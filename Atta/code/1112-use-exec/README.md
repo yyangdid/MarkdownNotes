@@ -54,7 +54,7 @@
   - [main.c](./v4/main.c)
 
 - 说明：
-  - 基于 [v2](#v2) 修改, 展示 [system(3) 函数的使用  v1](../1115-use-system/README.md#v1) 中的
+  - 基于 [v2](#v2) 修改, 展示 [system(3) 函数的使用 v1](../1115-use-system/README.md#v1) 中的
     `system(3)` 函数换成 `few` 是如何实现的.
   - 打印系统时戳(即: date +%s)
   - 运行: `./main`

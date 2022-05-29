@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @brief 简单的 copy 程序。
- * @version 0.0.4
+ * @version 0.0.5
  * @author yyangdid\@gmail.com
  */
 
@@ -20,32 +20,45 @@ int main(int argc, char *argv[]) {
   if (argc < 3 || strcmp(argv[1], "--hep") == 0 || strcmp(argv[1], "-h") == 0) {
     fprintf(stderr,
             "Wrong number of parameters!\n"
-            "Usage: %s src_file des_file\n",
+            "Usage: %s file\n",
             argv[0]);
     fflush(NULL);
     exit(EXIT_FAILURE);
   }
 
   int fd_src, fd_des; // 文件描述符
-  fd_src = open(argv[1], O_RDONLY);
-  if (fd_src < 0) {
-    fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__, strerror(errno));
-    fflush(NULL);
-    exit(EXIT_FAILURE);
-  }
-  fd_des = open(argv[2], O_WRONLY | O_CREAT | O_TRUNC, 0600);
-  if (fd_des < 0) {
-    close(fd_src);
-    fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__, strerror(errno));
-    fflush(NULL);
-    exit(EXIT_FAILURE);
-  }
+  do {
+    fd_src = open(argv[1], O_RDONLY);
+    if (fd_src < 0) {
+      if (errno != EINTR) { // 真错
+        fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__,
+                strerror(errno));
+        fflush(NULL);
+        exit(EXIT_FAILURE);
+      }
+    }
+  } while (fd_src < 0);
+
+  do {
+    fd_des = open(argv[2], O_WRONLY | O_CREAT | O_TRUNC, 0600);
+    if (fd_des < 0) {
+      if (errno != EINTR) { // 真错
+        close(fd_src);
+        fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__,
+                strerror(errno));
+        fflush(NULL);
+        exit(EXIT_FAILURE);
+      }
+    }
+  } while (fd_des < 0);
 
   char buff[BUFF_SIZE];
   ssize_t len = 0, rtn = 0;
   while (1) {
     len = read(fd_src, buff, BUFF_SIZE);
-    if (len < 0) { // 读取出错
+    if (len < 0) {        // 读取出错
+      if (errno == EINTR) // 假错
+        continue;
       fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__,
               strerror(errno));
       fflush(NULL);
@@ -59,7 +72,9 @@ int main(int argc, char *argv[]) {
     ssize_t pos = 0;
     while (len > 0) { // 如果一次写不完，就一直到写完
       rtn = write(fd_des, buff + pos, len);
-      if (rtn < 0) { // 写入失败
+      if (rtn < 0) {        // 写入失败
+        if (errno == EINTR) // 假错
+          continue;
         close(fd_des);
         close(fd_src);
         fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__,
