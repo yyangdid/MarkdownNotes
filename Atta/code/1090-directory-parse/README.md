@@ -42,7 +42,7 @@
 ## v3
 
 - 代码文件：
-  - [main.c](./v2/main.c)
+  - [main.c](./v3/main.c)
 
 - 说明：
   - 运行：`./main`
