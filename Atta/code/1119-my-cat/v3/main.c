@@ -68,8 +68,7 @@ int main(int argc, char *argv[]) {
     while (token <= 0)
       pause();
     token--;
-    while ((len = read(fd_src, buff, BUFF_SIZE)) < 0) {
-      if (len < 0) {        // 读取出错
+    while ((len = read(fd_src, buff, BUFF_SIZE)) < 0) { // 读取出错
         if (errno == EINTR) // 假错
           continue;
         fprintf(stderr, "%s->%s()->%d Error: %s\n", __FILE__, __FUNCTION__, __LINE__,
@@ -78,7 +77,6 @@ int main(int argc, char *argv[]) {
         // 这里没有使用 exit(2)，是因为在这里如果读取出错了需要先关闭 fd_des 和 fd_src，然后
         // 再 exit(2)。这里使用 break 直接跳出循环，后面马上就执行关闭两个 fd 了
         break;
-      }
     }
     if (len == 0) // 读取完成
       break;
