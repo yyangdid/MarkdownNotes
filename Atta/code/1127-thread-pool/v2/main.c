@@ -40,7 +40,6 @@ static void *thread_add(void *p) {
   fclose(fp);
   pthread_mutex_unlock(&mut); // 互斥量解锁
 
-  pthread_mutex_destroy(&mut); // 销毁互斥量
   pthread_exit(NULL);
 }
 
@@ -58,6 +57,7 @@ int main() {
   for (int i = 0; i < THREAD_NUM; i++) {
     pthread_join(tid[i], NULL);
   }
+  pthread_mutex_destroy(&mut); // 销毁互斥量
 
   exit(EXIT_SUCCESS);
 }
